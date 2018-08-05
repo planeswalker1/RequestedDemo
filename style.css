@@ -1,0 +1,28 @@
+*{
+	font-size: 10px;
+}
+
+.hero {
+	background: #fad;
+	width: 100%;
+	height: 500px;
+}
+.titleArea{
+	font-size: 3rem;
+	text-align: center;
+	padding: 10rem;
+}
+
+.userInputArea{
+	position: fixed;
+	left: 40%;
+}
+
+.button {
+	margin: 0px 5px;
+	padding: 1rem;
+}
+
+.input {
+	padding: 1rem;
+}
